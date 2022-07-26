@@ -1,4 +1,5 @@
-Lab4 
+
+cdLab4 
 Step1 
 On VScode terminal navigate to directory AWSLabs and run command git pull https://github.com/awscloudessentials/intro-to-aws-lab.git
 Open the new file(Lab3) in the editor, to allow you add steps you took to complete the lab.
@@ -36,6 +37,11 @@ Select the new instance, start the instance.
 SSH into the new instance and run command ls -la
 This should show the file name "ebs_backup.txt"
 Send screenshot for confirmation.
+
+Make sure your sg for ssh is on port:22, source:anywhere 0.0.0.0/0
+It is important you rename or modify the volume path before attching the volume
+Succesfully completed all 5 steps
+
 
 Step 6
 Once confirmed, kindly clean up your AWS account.
