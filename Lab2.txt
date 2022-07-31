@@ -40,5 +40,5 @@ On the terminal run command git add Lab2.txt
 Git commit -m “launch template demo”
 Push to your personal repo.
 
-Had to force push to my repo.
+I had to force push to my repo.
 All 4 steps were successfully completed.
