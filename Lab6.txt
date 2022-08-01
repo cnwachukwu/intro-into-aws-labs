@@ -74,6 +74,8 @@ Send Screenshot
 On the DNS name of the ALB add /health.html on a webpage
 Send screenshot
 
+Remember to edit your default SG to allow http/anywhere else it won't work.
+
 Step 7
 Once confirmed, kindly clean up your AWS account.
 Edit the file in VSCode editor, save and push to your personal remote repo.
