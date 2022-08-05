@@ -21,7 +21,7 @@ Run the command ls -la to verify that your key is uploaded correctly.
 Run command sudo ssh -i "<keypair name" ec2-user@<public-ip-address>.compute-1.amazonaws.com
 To connect to your EC2 instance
 Send screenshoot for confirmation.
-Once confirmed, terminate your instance.
+Once confirmed, terminate your instance
 
 Step3(Documentation)
 Document all the steps in the file you have opened in the editor.

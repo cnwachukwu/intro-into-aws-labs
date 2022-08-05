@@ -75,7 +75,8 @@ Step 8
 Once confirmed, kindly clean up your AWS account.
 Edit the file in VSCode editor, save and push to your personal remote repo.
 
-
+Observations:
+I mistakenily terminated both instances instead of one, but the ASG created a new instance still.
 
 
 
