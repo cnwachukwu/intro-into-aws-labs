@@ -66,7 +66,7 @@ Edit the file in VSCode editor, save and push to your personal remote repo.
 
 
 
-
+Note: Allow or deny the right permissions to restrick public access.
 
 
 
