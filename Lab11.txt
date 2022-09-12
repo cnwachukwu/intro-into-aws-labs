@@ -67,7 +67,7 @@ Once confirmed, terminate your EC2 instance.
 Edit the file in VSCode editor, save and push to your personal remote repo.
 
 
-
+RDP connected.
 
 
 
