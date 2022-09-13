@@ -108,7 +108,6 @@ Select your projectVPC
 Click Next and select your 2 private EC2, include as pending, then register the pending targets.
 
 
-
 Step 9(Create an ALB and add the target group)
 Give it the name projectALB
 Select the projectVPC
@@ -116,7 +115,6 @@ Select the subnets
 Under security ,select the SG attached to the  projectVPC
 Under listeners and routing, select your target group 
 Create Load Balancer
-
 
 
 Step 10
@@ -129,6 +127,8 @@ Once confirmed, terminate your EC2 instance.
 Edit the file in VSCode editor, save and push to your personal remote repo.
 
 
+
+ALB working perfectly.
 
 
 
