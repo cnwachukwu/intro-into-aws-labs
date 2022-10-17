@@ -52,3 +52,5 @@ also post your url for members to confirm.
 
 Step 8
 Edit this lab file in your VSCode editor with your additional steps, save, add, commit and push to your personal remote repo.
+
+Remb to copy the right url in step 6, else you will be getting an incomplete website.
