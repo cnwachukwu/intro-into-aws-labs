@@ -52,5 +52,9 @@ also post your url for members to confirm.
 
 Step 8
 Edit this lab file in your VSCode editor with your additional steps, save, add, commit and push to your personal remote repo.
+<<<<<<< HEAD
 
 Remb to copy the right url in step 6, else you will be getting an incomplete website.
+=======
+trying to push with git push origin main
+>>>>>>> d984348615914b06d898787a7263093c911c7bb8
