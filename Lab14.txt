@@ -29,4 +29,4 @@ Clean up your account by deleting user1, user2, user3, IAC group, s3 bucket and 
 Step 7
 Edit the file in VSCode editor with any steps not captured above, save and push to your personal remote repo.
 
-creating users with IAM
+creating users with IAM !
